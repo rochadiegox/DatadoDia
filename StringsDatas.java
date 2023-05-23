@@ -9,6 +9,7 @@ import java.util.Locale;
 public class StringsDatas {
     
     public static void main(String[] args) {
+        
                //Olá, {nome}. Hoje é {dia-da-semana}, BOM DIA.
         
         String nome = "Diego";
